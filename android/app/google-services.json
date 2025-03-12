@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129954367655",
+    "project_id": "fyp-foodrecognition",
+    "storage_bucket": "fyp-foodrecognition.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129954367655:android:ba48c546ef9bc49569f382",
+        "android_client_info": {
+          "package_name": "com.company.Nutri_snap12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2V050SvXRFrTBNvWbYvXNptad5xTWv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
